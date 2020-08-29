@@ -18,7 +18,9 @@ Features used for prediction were as follows -
 **7) Diabetes History**
 
 **8) Family History of Heart Disease**
+
 **9) ECG**
+
 **10) Pulse Rate**
 
 The above features were chosen so that they could be measured via use of no high cost machinery and thus the overall process of heart prediction can be as low as possible in terms of money involved.
