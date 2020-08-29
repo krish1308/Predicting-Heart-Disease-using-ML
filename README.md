@@ -4,12 +4,19 @@ Deep neural network model for heart disease prediction.
 Features used for prediction were as follows - 
 
 **1) Age**
+
 **2) Gender**
+
 **3) Chest Pain Category**
+
 **4) Blood Pressure**
+
 **5) Number of Years as a Smoker**
+
 **6) Fasting Blood Sugar Level**
+
 **7) Diabetes History**
+
 **8) Family History of Heart Disease**
 **9) ECG**
 **10) Pulse Rate**
